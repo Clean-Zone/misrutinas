@@ -1,4 +1,4 @@
-# MisRutinas (versión web)
+# MisRutinas (versión web).
 
 Registra tus rutinas y entrenamientos. Funciona sin conexión y se instala en la pantalla de inicio.
 Tus datos se guardan solo en tu teléfono (no hay cuentas ni servidor).
